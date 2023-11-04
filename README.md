@@ -38,7 +38,7 @@ Front-end:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
 
-ongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
+
 
 
 Studying
@@ -56,7 +56,7 @@ Back-end:
 
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
-![M
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
 ## GitHub Stats Card
 
 <div>
