@@ -41,7 +41,7 @@ Front-end:
 
 
 
-Studying
+## Estudando:
 
 Front-end:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=React&logoColor=white&style=flat)
