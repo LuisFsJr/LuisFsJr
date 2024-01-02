@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Sou apaixonado pela área de tecnologia, curioso para saber até onde ela pode nos levar e como podemos utilizá-la para melhorar o mundo.
-
+<hr></hr>
+I'm passionate about technology, curious about where it can take us and how we can use it to improve the world.
 <!--
 **LuisFsJr/LuisFsJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
