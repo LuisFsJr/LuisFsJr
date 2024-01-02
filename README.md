@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Sou apaixonado pela área de tecnologia, curioso para saber até onde ela pode nos levar e como podemos utilizá-la para melhorar o mundo.
-
 I'm passionate about technology, curious about where it can take us and how we can use it to make the world a better place.
 <hr></hr>
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Linguagens:
+## Stacks:
 
 <!--div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +42,7 @@ Front-end:
 
 
 
-## Estudando:
+## Learning:
 
 Front-end:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=React&logoColor=white&style=flat)
