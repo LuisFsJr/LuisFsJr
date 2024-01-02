@@ -2,7 +2,7 @@
 
 Sou apaixonado pela área de tecnologia, curioso para saber até onde ela pode nos levar e como podemos utilizá-la para melhorar o mundo.
 
-I'm passionate about technology, curious about where it can take us and how we can use it to improve the world.
+I'm passionate about technology, curious about where it can take us and how we can use it to make the world a better place.
 <hr></hr>
 
 <!--
