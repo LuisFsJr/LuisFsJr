@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Sou apaixonado pela área de tecnologia, curioso para saber até onde ela pode nos levar e como podemos utilizá-la para melhorar o mundo.
-<hr></hr>
+
 I'm passionate about technology, curious about where it can take us and how we can use it to improve the world.
+<hr></hr>
 
 <!--
 **LuisFsJr/LuisFsJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,9 +60,3 @@ Back-end:
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
-## GitHub Stats Card
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisFsJr&show_icons=true&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFsJr&layout=compact&theme=cobalt&langs_count=8&hide=ruby,objective-c,starlark,java" />
-</div>
