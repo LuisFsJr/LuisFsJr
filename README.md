@@ -35,12 +35,9 @@ Here are some ideas to get you started:
 <br-->
 
 Front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
-
-
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?logo=TypeScript&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-D32121?logo=Angular&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-TailWindCSS-151C2C?logo=tailwindcss&logoColor=15B8C5&style=flat)
 
 ## Learning:
 
